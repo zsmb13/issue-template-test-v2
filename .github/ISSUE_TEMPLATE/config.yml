@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Create issue
+    url: https://youtrack.jetbrains.com/issues/AMPER
+    about: Please use YouTrack to report issues
+  - name: Discuss
+    url: https://slack-chats.kotlinlang.org/c/amper
+    about: Join the #amper channel on the Kotlinlang Slack
